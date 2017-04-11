@@ -8,13 +8,10 @@
     tools:context="com.project.sportfacilitiesreservationhelper.MainActivity">
 
     <TextView
+        android:id="@+id/Munsik"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        tools:layout_constraintTop_creator="1"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="16dp"
-        tools:layout_constraintLeft_creator="1"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:text="되나?"
+        tools:layout_editor_absoluteX="162dp"
+        tools:layout_editor_absoluteY="51dp" />
 </android.support.constraint.ConstraintLayout>
